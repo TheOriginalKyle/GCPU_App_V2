@@ -1,0 +1,195 @@
+Test 1
+
+Welcome to the Great Cal Poly Underground!
+Box Canyon
+This looks like the Voorhis Ecological Reserve.
+A cavernous opening in the canyon wall lies just ahead of you.
+There's an opening to the North, 
+> N
+You have entered Kellogg Mansion
+This is the former home of William Kellogg.
+There's an opening to the East, 
+> W
+You can't go that way!
+> E
+You have entered Los Olivos
+The aroma of hamburgers and pizza wafts through the air.
+There's an opening to the North, West, 
+> N
+You have entered Rose Garden
+You are standing in the middle of a beautiful rose garden.
+There's an opening to the South, West, 
+> W
+You have entered Class Room
+You see an old table covered with papers near the front of the room.
+There's an opening to the North, East, 
+> N
+You have entered University Library
+There's a lot of books in here.
+There's an opening to the South, East, 
+> E
+You have entered Starbucks
+You see a line of college students and a lot of coffee.
+There's an opening to the West, East, Southeast, 
+> SE
+You have entered Bussiness Building
+A bunch of enterprising students attempt to sell you a box of rocks.
+There's an opening to the North, Northwest, Northeast, South, 
+> NW
+You have entered Starbucks
+You see a line of college students and a lot of coffee.
+There's an opening to the West, East, Southeast, 
+> quit
+Do you wish to leave the Underground? (Y/N)
+> y
+Thank you for visiting the Great CalPoly Underground!
+
+Test 2
+
+Welcome to the Great Cal Poly Underground!
+Box Canyon
+This looks like the Voorhis Ecological Reserve.
+A cavernous opening in the canyon wall lies just ahead of you.
+There's an opening to the North, 
+> look
+Box Canyon
+This looks like the Voorhis Ecological Reserve.
+A cavernous opening in the canyon wall lies just ahead of you.
+There's an opening to the North, 
+There is a Paper here.
+> n
+You have entered Kellogg Mansion
+This is the former home of William Kellogg.
+There's an opening to the East, 
+> look
+Kellogg Mansion
+This is the former home of William Kellogg.
+There's an opening to the East, 
+There is a Picture here.
+> e
+You have entered Los Olivos
+The aroma of hamburgers and pizza wafts through the air.
+There's an opening to the North, West, 
+> look
+Los Olivos
+The aroma of hamburgers and pizza wafts through the air.
+There's an opening to the North, West, 
+There is a Lunch here.
+> quit
+Do you wish to leave the Underground? (Y/N)
+> Y
+Thank you for visiting the Great CalPoly Underground!
+
+Test 3
+
+Welcome to the Great Cal Poly Underground!
+Box Canyon
+This looks like the Voorhis Ecological Reserve.
+A cavernous opening in the canyon wall lies just ahead of you.
+There's an opening to the North, 
+> look
+Box Canyon
+This looks like the Voorhis Ecological Reserve.
+A cavernous opening in the canyon wall lies just ahead of you.
+There's an opening to the North, 
+There is a Paper here.
+> examine
+The paper appears blank
+> touch
+The paper begins to glow...
+> examine
+The paper reads: Welcome to the Great Cal Poly Underground!
+> touch
+The writing fades.
+> n
+You have entered Kellogg Mansion
+This is the former home of William Kellogg.
+There's an opening to the East, 
+> examine
+The picture bears an inscription that reads:
+'W. K. Kellogg'. He appears to be holding a box of Corn Flakes.
+> quit
+Do you wish to leave the Underground? (Y/N)
+> Y
+Thank you for visiting the Great CalPoly Underground!
+
+Test 4
+
+Welcome to the Great Cal Poly Underground!
+Box Canyon
+This looks like the Voorhis Ecological Reserve.
+A cavernous opening in the canyon wall lies just ahead of you.
+There's an opening to the North, 
+> examine
+The paper appears blank
+> touch
+The paper begins to glow...
+> examine
+The paper reads: Welcome to the Great Cal Poly Underground!
+> n
+You have entered Kellogg Mansion
+This is the former home of William Kellogg.
+There's an opening to the East, 
+> examine
+The picture bears an inscription that reads:
+'W. K. Kellogg'. He appears to be holding a box of Corn Flakes.
+> touch
+Touching the Picture doesn't appear to do anything.
+> quit
+Do you wish to leave the Underground? (Y/N)
+> Y
+Thank you for visiting the Great CalPoly Underground!
+
+Test 5
+
+Welcome to the Great Cal Poly Underground!
+Box Canyon
+This looks like the Voorhis Ecological Reserve.
+A cavernous opening in the canyon wall lies just ahead of you.
+There's an opening to the North, 
+> hello
+
+I don't understand that word 'hello'
+> okie
+
+I don't understand that word 'okie'
+> Never gonna give you up!
+
+I don't understand that word 'never gonna give you up!'
+> never gonna let you down!
+
+I don't understand that word 'never gonna let you down!'
+> HAHAHA rick rolled ya!
+
+I don't understand that word 'hahaha rick rolled ya!'
+> quit
+Do you wish to leave the Underground? (Y/N)
+> Y
+Thank you for visiting the Great CalPoly Underground!
+
+Test 6
+
+Welcome to the Great Cal Poly Underground!
+Box Canyon
+This looks like the Voorhis Ecological Reserve.
+A cavernous opening in the canyon wall lies just ahead of you.
+There's an opening to the North, 
+> n
+You have entered Kellogg Mansion
+This is the former home of William Kellogg.
+There's an opening to the East, 
+> e
+You have entered Los Olivos
+The aroma of hamburgers and pizza wafts through the air.
+There's an opening to the North, West, 
+> n
+You have entered Rose Garden
+You are standing in the middle of a beautiful rose garden.
+There's an opening to the South, West, 
+> quit
+Do you wish to leave the Underground? (Y/N)
+> n
+> quit
+Do you wish to leave the Underground? (Y/N)
+> Y
+Thank you for visiting the Great CalPoly Underground!
