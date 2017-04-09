@@ -1,0 +1,13 @@
+StartLocation=0,2
+Artifact=Sign,0,0
+Artifact=Coffee,1,0
+Artifact=Report,2,0
+Artifact=Beer can,3,0
+Artifact=Exam,0,1
+Artifact=Gazebo,1,1
+Artifact=Bussiness Plan,2,1
+Artifact=Picture,0,2
+Artifact=Lunch,1,2
+Artifact=Beer,2,2
+Artifact=Candle,2,3
+Inventory=Paper

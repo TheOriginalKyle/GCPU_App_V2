@@ -1,0 +1,146 @@
+Test No. 1
+
+Welcome to the Great Cal Poly Underground!
+Box Canyon
+This looks like the Voorhis Ecological Reserve.
+A cavernous opening in the canyon wall lies just ahead of you.
+There's an opening to the North, 
+> look
+Box Canyon
+This looks like the Voorhis Ecological Reserve.
+A cavernous opening in the canyon wall lies just ahead of you.
+There's an opening to the North, 
+There is a Paper here.
+> take
+You grab the Paper.
+> n
+You have entered Kellogg Mansion
+This is the former home of William Kellogg.
+There's an opening to the East, 
+> take
+You grab the Picture.
+> look
+Kellogg Mansion
+This is the former home of William Kellogg.
+There's an opening to the East, 
+There's nothing here
+> quit
+Do you wish to leave the Underground? (Y/N)
+> Y
+Thank you for visiting the Great CalPoly Underground!
+
+Test No. 2
+
+Welcome to the Great Cal Poly Underground!
+Box Canyon
+This looks like the Voorhis Ecological Reserve.
+A cavernous opening in the canyon wall lies just ahead of you.
+There's an opening to the North, 
+> take
+You grab the Paper.
+> n
+You have entered Kellogg Mansion
+This is the former home of William Kellogg.
+There's an opening to the East, 
+> drop
+You pick up the Picture.
+You drop the Paper.
+> take
+You grab the Paper.
+> drop
+You drop the Picture.
+> inventory
+Paper
+> look
+Kellogg Mansion
+This is the former home of William Kellogg.
+There's an opening to the East, 
+There is a Picture here.
+> quit
+Do you wish to leave the Underground? (Y/N)
+> Y
+Thank you for visiting the Great CalPoly Underground!
+
+Test No. 3
+
+Welcome to the Great Cal Poly Underground!
+Box Canyon
+This looks like the Voorhis Ecological Reserve.
+A cavernous opening in the canyon wall lies just ahead of you.
+There's an opening to the North, 
+> take
+You grab the Paper.
+> n
+You have entered Kellogg Mansion
+This is the former home of William Kellogg.
+There's an opening to the East, 
+> save
+Where would you like it saved?
+> /home/kyle/GCPU3.txt
+Adventure saved.
+> quit
+Do you wish to leave the Underground? (Y/N)
+> Y
+Thank you for visiting the Great CalPoly Underground!
+
+Test No. 4
+
+Welcome to the Great Cal Poly Underground!
+Box Canyon
+This looks like the Voorhis Ecological Reserve.
+A cavernous opening in the canyon wall lies just ahead of you.
+There's an opening to the North, 
+> restore
+Where is your save?
+> /home/kyle/GCPU3.txt
+> look
+Kellogg Mansion
+This is the former home of William Kellogg.
+There's an opening to the East, 
+There is a Picture here.
+> quit
+Do you wish to leave the Underground? (Y/N)
+> Y
+Thank you for visiting the Great CalPoly Underground!
+
+Test No. 5
+
+Welcome to the Great Cal Poly Underground!
+Box Canyon
+This looks like the Voorhis Ecological Reserve.
+A cavernous opening in the canyon wall lies just ahead of you.
+There's an opening to the North, 
+> take
+You grab the Paper.
+> inventory
+Paper
+> quit
+Do you wish to leave the Underground? (Y/N)
+> Y
+Thank you for visiting the Great CalPoly Underground!
+
+Test No. 6
+
+Welcome to the Great Cal Poly Underground!
+Box Canyon
+This looks like the Voorhis Ecological Reserve.
+A cavernous opening in the canyon wall lies just ahead of you.
+There's an opening to the North, 
+> help
+You can enter a direction such as n,s,e,w,nw...
+Or one of the following commands:
+'Look' To see whats going on around you.
+'Examine' Allows you to study an item more carefully.
+'Touch' Has your character touch an item.
+'Take' Grabs an item and puts it your backpack.
+'Drop' Drops an item from your backpack.
+'Inventory' Displays your items.
+'Save' Saves your game.
+'Restore' Restores an old save.
+'Quit' Allows you to exit the game safely.
+> quit
+Do you wish to leave the Underground? (Y/N)
+> Y
+Thank you for visiting the Great CalPoly Underground!
+
+
