@@ -1,1 +1,2 @@
 # GCPU_App_V2
+This was the third and final project for my intro to programming class. I believe I went back and fixed all the errors I got with the first one (occassionaly the program would crash if you "Examined" an empty room). It was also the easiest of the three but still required the same amount of work as the first two. In this version you can hold multiple items, drop them across the map, save your progress and more!
